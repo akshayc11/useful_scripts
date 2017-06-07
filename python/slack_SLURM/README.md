@@ -21,3 +21,5 @@ To get more information about incoming webhooks, check out [this link](https://a
 
 ## Download
 The script can be downloaded from [here](http://akshayc.com/useful_scripts/python/slack_SLURM/slackbot.py).
+
+## [Go back to home](http://akshayc.com/useful_scripts)
