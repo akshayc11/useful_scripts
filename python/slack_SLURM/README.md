@@ -1,6 +1,13 @@
 # Slackbot.py
 
-[TOC]
+Table of Contents
+=================
+
+   * [Slackbot.py](#slackbotpy)
+      * [Description](#description)
+      * [Note](#note)
+      * [Additional Information](#additional-information)
+      * [Download](#download)
 
 ## Description
 

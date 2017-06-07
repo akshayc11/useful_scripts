@@ -1,4 +1,14 @@
+
 ## Useful Scripts
+
+Table of Contents
+=================
+
+         * [Introduction](#introduction)
+         * [List of Scripts:](#list-of-scripts)
+
+
+### Introduction
 
 This repository contains a bunch of scripts useful for my workflow, which others may also find useful.
 Below is the list of currently existing scripts.
